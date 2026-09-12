@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yanis Lacaille
+# 👋 Hello, I'm Yanis Lacaille
 
 ### 🎓 Computer Science Student | 🌍 France → Canada | 🎮 Game & Web Developer
 
